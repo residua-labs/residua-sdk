@@ -1,5 +1,7 @@
 # residua-sdk
 
+> **Release status (2026-10-23):** pre-release research mirror. It is **not** part of the first Residua release (bootstrap 1.0 + R-CIC) and is not being expanded until it is closed. See [residua-labs/Residua](https://github.com/residua-labs/Residua) for release status.
+
 The host-language SDK for **embedding Residua** in other languages: TS, Python (via Wasm), and Rust.
 
 The design lives in the main repository:
